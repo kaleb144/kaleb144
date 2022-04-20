@@ -1,7 +1,7 @@
 # Markdown syntax guide
 #### Um pouco sobre mim
 
-Sou o kaleb Boschi
+Sou o kaleb boschi
 
 Estudante de programação
 
