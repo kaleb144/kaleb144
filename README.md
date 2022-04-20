@@ -1,7 +1,7 @@
 # Markdown syntax guide
 #### Um pouco sobre mim
 
-1. Meu nome é Kalebi Boschi
+1. Sou o eckoz
 1. Estudante de programação
 1. Quero ser...
  1. Frontend
