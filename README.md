@@ -1,7 +1,7 @@
 # Markdown syntax guide
 #### Um pouco sobre mim
 
-Sou o eckoz
+Sou o kaleb
 
 Estudante de programação
 
