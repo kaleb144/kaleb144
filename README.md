@@ -1,11 +1,14 @@
 # Markdown syntax guide
 #### Um pouco sobre mim
 
-1. Sou o eckoz
-1. Estudante de programação
-1. Quero ser...
- 1. Frontend
- 1. Backend
+Sou o eckoz
+
+Estudante de programação
+
+Quero ser...
+
+Frontend
+Backend
  
  
  ---
