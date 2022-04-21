@@ -36,9 +36,13 @@ A little about myself
  </p>
 
 ---
+<p align="center">
+### <strong>Contacts</strong> ###
+</p>
+
 
 <p align="center">
-
+   
 <a href="https://www.instagram.com/eckoz144/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-F44747?style=flat-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
 
