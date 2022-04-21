@@ -45,7 +45,6 @@ A little about myself
 <a href="mailto:eckoz444@gmail.com" alt="Email">
 <img src="https://img.shields.io/badge/-eckoz444@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eckoz444@gmail.com/"/></a>     
 
----
 ---     
      
 <!-- This is taken from https://github.com/kaleb144/npm-statistics -->
@@ -58,3 +57,6 @@ A little about myself
     alt="gargakshit"
   />
 </p>
+
+---
+---
