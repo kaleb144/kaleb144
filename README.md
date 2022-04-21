@@ -35,8 +35,6 @@ A little about myself
  
  </p>
 
----
-
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=eckoz&show_icons=true&theme=&line_height=20">
      
