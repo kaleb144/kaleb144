@@ -9,9 +9,12 @@ A little about myself
 <img src="https://user-images.githubusercontent.com/104040182/164468372-10d97537-f27a-40da-813b-91c4c7fd5337.png" width="250px" />
 </div>     
  
-##### Life teaches, time explains     
+##### "Life teaches, time explains"
+##### (Kaleb Boschi)
      
-### programming student
+---     
+     
+### Programming student
 
 #### I want to be...
 
