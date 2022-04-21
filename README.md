@@ -1,15 +1,17 @@
 <div align="center">
 A little about myself
 
-## नमस्ते (Namaste), I am [eckoz](http://eckoz.xyz/?=github)
+### नमस्ते (Namaste), I am [eckoz](http://eckoz.xyz/?=github)
 
      
      
 <div align="center">
 <img src="https://user-images.githubusercontent.com/104040182/164468372-10d97537-f27a-40da-813b-91c4c7fd5337.png" width="250px" />
 </div>     
+ 
+##### Life teaches, time explains     
      
-#### programming student
+### programming student
 
 #### I want to be...
 
@@ -38,13 +40,13 @@ A little about myself
 <img src="https://img.shields.io/badge/-Instagram-F44747?style=flat-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
 
 <a href="https://www.youtube.com/channel/UCZ4o7b09PQZfpSH9xf45g6g" alt="Youtube">
-<img src="https://img.shields.io/badge/-@eckoz144-c4302b?style=flat-badgesquare&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZ4o7b09PQZfpSH9xf45g6g/"/></a>
+<img src="https://img.shields.io/badge/-@Youtube-c4302b?style=flat-badgesquare&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZ4o7b09PQZfpSH9xf45g6g/"/></a>
  
 <a href="https://www.linkedin.com/in/kaleb-boschi-74280b225/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-eckoz144-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaleb-boschi-74280b225/"/></a>
+<img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaleb-boschi-74280b225/"/></a>
           
 <a href="mailto:eckoz444@gmail.com" alt="Email">
-<img src="https://img.shields.io/badge/-eckoz444@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eckoz444@gmail.com/"/></a>     
+<img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eckoz444@gmail.com/"/></a>     
 
 ---     
      
