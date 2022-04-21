@@ -1,10 +1,10 @@
 #### Um pouco sobre mim
 
-Meu nome é Kalebi (eckoz)
+#### Meu nome é Kalebi (eckoz)
 
-Estudante de programação
+#### Estudante de programação
 
-Quero ser...
+#### Quero ser...
 
 > 👨🏻‍💻 Web Front-end Developer
 
