@@ -1,11 +1,11 @@
-<div align="center">
+<div align="rigth">
 A little about myself
 
 ## नमस्ते (Namaste), I am [eckoz](http://eckoz.xyz/?=github)
 
      
      
-<div align="center">
+<div align="rigth">
 <img src="https://user-images.githubusercontent.com/104040182/164468372-10d97537-f27a-40da-813b-91c4c7fd5337.png" width="250px" />
 </div>     
      
@@ -19,7 +19,7 @@ A little about myself
 
 
 
-<p align="center">
+<p align="rigth">
   
  <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
@@ -31,7 +31,7 @@ A little about myself
 
 ---
 
-<p align="center">
+<p align="rigth">
 
 <a href="https://www.instagram.com/eckoz144/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-F44747?style=flat-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
