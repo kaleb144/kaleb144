@@ -3,7 +3,7 @@
 ## नमस्ते (Namaste), I am [eckoz](http://eckoz.xyz/?=github)
 
 <div align="rigth">
-<img src="https://user-images.githubusercontent.com/104040182/164468372-10d97537-f27a-40da-813b-91c4c7fd5337.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/104040182/164468372-10d97537-f27a-40da-813b-91c4c7fd5337.png" width="250px" />
 </div>     
      
 #### programming student
