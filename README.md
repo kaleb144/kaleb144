@@ -30,7 +30,6 @@ A little about myself
  </p>
 
 ---
----
 
 <p align="center">
 
