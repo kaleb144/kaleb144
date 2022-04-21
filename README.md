@@ -30,6 +30,7 @@ A little about myself
  </p>
 
 ---
+---
 
 <p align="center">
 
@@ -46,6 +47,7 @@ A little about myself
 <img src="https://img.shields.io/badge/-eckoz444@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eckoz444@gmail.com/"/></a>     
 
 ---
+---     
      
 <!-- This is taken from https://github.com/kaleb144/npm-statistics -->
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fnpm-statistics%2Fmaster%2Fstats.json)
