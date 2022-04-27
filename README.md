@@ -40,7 +40,7 @@ A little about myself
      
 ---
 <p align="center">
-### <strong>Contacts</strong> ###
+### <strong> Contacts </strong> ###
 </p>
 
 
